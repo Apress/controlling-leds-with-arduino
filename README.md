@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Controlling LEDs with Arduino*](https://rd.springer.com/video/10.1007/978-1-4842-4883-6) by Elizabeth Clark (Apress, 2019).
+This repository accompanies [*Controlling LEDs with Arduino*](https://rd.springer.com/video/10.1007/978-1-4842-4883-6) by Liz Clark (Apress, 2019).
 
 [comment]: #cover
 ![Cover image](9781484248836.jpg)
